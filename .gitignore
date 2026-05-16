@@ -1,0 +1,13 @@
+# Bỏ qua môi trường ảo Python (thư mục này rất nặng, không cần đưa lên GitHub)
+core/env/
+__pycache__/
+*.pyc
+
+# Bỏ qua dữ liệu tạm và ảnh chụp quét khuôn mặt của nhân viên
+uploads/
+dataset/*
+!dataset/.gitkeep
+
+# Bỏ qua dữ liệu chấm công thực tế (tránh lộ thông tin nội bộ)
+database/attendance.json
+database/employees.json
