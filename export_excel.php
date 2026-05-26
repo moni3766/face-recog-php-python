@@ -220,31 +220,3 @@ header('Cache-Control: max-age=0');
 // nnnnn - Ghi log chi tiết lỗi hệ thống phát sinh
 // nnnnn - Phân loại mức độ nghiêm trọng của lỗi
 // nnnnn - Thông báo cho quản trị viên qua hệ thống
-// nnnnn - Tự động khởi động lại dịch vụ nếu treo
-// nnnnn - Kiểm tra dung lượng đĩa cứng còn trống
-// nnnnn - Hoàn thành tối ưu hóa mã nguồn giai đoạn 2
-// nnnnn - Bắt đầu giai đoạn kiểm thử hệ thống 1
-// nnnnn - Chạy thử nghiệm với dữ liệu mẫu cơ bản
-// nnnnn - Kiểm tra phản hồi của chức năng đăng nhập
-// nnnnn - Thử nghiệm trường hợp nhập sai mật khẩu
-// nnnnn - Thử nghiệm nhập ký tự lạ vào ô tìm kiếm
-// nnnnn - Kiểm tra khả năng chịu tải của trang chủ
-// nnnnn - Thử nghiệm chức năng xuất file báo cáo
-// nnnnn - Kiểm tra hiển thị giao diện trên mobile
-// nnnnn - Thử nghiệm trên các trình duyệt khác nhau
-// nnnnn - Kiểm tra tốc độ phản hồi của API hệ thống
-// nnnnn - Xác minh tính chính xác của bộ đếm lượt truy cập
-// nnnnn - Thử nghiệm xóa dữ liệu có ràng buộc
-// nnnnn - Kiểm tra thông báo lỗi hiển thị cho khách
-// nnnnn - Xác thực tính năng bảo mật biểu mẫu chống CSRF
-// nnnnn - Thử nghiệm gửi dữ liệu liên tục tốc độ cao
-// nnnnn - Kiểm tra bộ lọc từ ngữ nhạy cảm hệ thống
-// nnnnn - Thử nghiệm khôi phục mật khẩu qua email mẫu
-// nnnnn - Kiểm tra liên kết điều hướng nội bộ trang
-// nnnnn - Xác minh quyền hạn của tài khoản biên tập viên
-// nnnnn - Hoàn thành giai đoạn kiểm thử hệ thống 1
-// nnnnn - Bắt đầu giai đoạn kiểm thử hệ thống 2
-// nnnnn - Mô phỏng môi trường người dùng thực tế
-// nnnnn - Kiểm tra tiến trình thanh toán giả lập
-// nnnnn - Xác minh tính đúng đắn của việc trừ kho
-// nnnnn - Thử nghiệm ngắt kết nối mạng giữa chừng
