@@ -51,7 +51,7 @@ header('Cache-Control: max-age=0');
         <?php
         if (!empty($attendance_data)) {
             $stt = 1;
-            // Đảo ngược mảng để dữ liệu chấm công mới nhất nhảy lên đầu bảng Excel cho dễ nhìn
+            // Đảo ngược mảng để dữ liệu chấm công mới nhất nhảy lên đầu bảng Excel cho dễ thấy
             $reversed_data = array_reverse($attendance_data);
             
             foreach ($reversed_data as $row) {
