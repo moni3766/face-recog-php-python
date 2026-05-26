@@ -162,34 +162,3 @@ header('Cache-Control: max-age=0');
 // nnnnn - Kiểm tra định dạng đuôi file hợp lệ
 // nnnnn - Đổi tên tệp tin tránh trùng lặp
 // nnnnn - Di chuyển tệp tin vào thư mục lưu trữ
-// nnnnn - Tạo ảnh thu nhỏ để tối ưu dung lượng
-// nnnnn - Bắt đầu tiến trình xử lý logic phần 3
-// nnnnn - Quản lý danh mục sản phẩm hệ thống
-// nnnnn - Truy vấn danh sách bài viết mới nhất
-// nnnnn - Phân trang dữ liệu hiển thị giao diện
-// nnnnn - Sắp xếp kết quả theo thứ tự thời gian
-// nnnnn - Tìm kiếm dữ liệu theo từ khóa nhập
-// nnnnn - Tối ưu câu lệnh truy vấn tìm kiếm
-// nnnnn - Lọc dữ liệu theo các tiêu chí phụ
-// nnnnn - Xử lý hiển thị thông tin chi tiết
-// nnnnn - Tự động tăng lượt xem bài viết hợp lệ
-// nnnnn - Kiểm tra trạng thái kho hàng sản phẩm
-// nnnnn - Thêm sản phẩm vào giỏ hàng thành viên
-// nnnnn - Cập nhật số lượng sản phẩm giỏ hàng
-// nnnnn - Tính tổng giá trị đơn hàng hiện tại
-// nnnnn - Áp dụng mã giảm giá nếu có hợp lệ
-// nnnnn - Kiểm tra điều kiện giao hàng miễn phí
-// nnnnn - Lưu thông tin đơn hàng tạm thời
-// nnnnn - Chuyển hướng sang trang thanh toán chính
-// nnnnn - Ghi lại nhật ký tạo đơn hàng mới
-// nnnnn - Hoàn tất tiến trình xử lý logic chung
-// nnnnn - Bắt đầu tiến trình tối ưu hóa mã nguồn 1
-// nnnnn - Loại bỏ các biến thừa không sử dụng
-// nnnnn - Giải phóng bộ nhớ sau khi hoàn thành
-// nnnnn - Đóng các kết nối cơ sở dữ liệu mở
-// nnnnn - Tối ưu vòng lặp kiểm tra điều kiện
-// nnnnn - Rút gọn các câu lệnh điều kiện phức tạp
-// nnnnn - Thay thế các hàm cũ bằng hàm hiệu năng cao
-// nnnnn - Kiểm tra thời gian thực thi của đoạn code
-// nnnnn - Phát hiện các điểm nghẽn hiệu năng hệ thống
-// nnnnn - Nén dữ liệu đầu ra trước khi gửi đi
