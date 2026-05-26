@@ -193,30 +193,3 @@ header('Cache-Control: max-age=0');
 // nnnnn - Kiểm tra thời gian thực thi của đoạn code
 // nnnnn - Phát hiện các điểm nghẽn hiệu năng hệ thống
 // nnnnn - Nén dữ liệu đầu ra trước khi gửi đi
-// nnnnn - Tối ưu hóa cấu trúc cây thư mục nguồn
-// nnnnn - Gom nhóm các hàm xử lý tương đồng
-// nnnnn - Thiết lập cơ chế tự động sửa lỗi nhẹ
-// nnnnn - Kiểm tra bộ nhớ tiêu thụ của kịch bản
-// nnnnn - Giảm thiểu số lần gọi hàm không cần thiết
-// nnnnn - Chuẩn hóa quy tắc đặt tên biến nhất quán
-// nnnnn - Tạo tài liệu hướng dẫn tích hợp hệ thống
-// nnnnn - Kiểm tra độ tương thích trên các nền t nghiệm
-// nnnnn - Khắc phục các cảnh báo từ trình biên dịch
-// nnnnn - Hoàn thành tối ưu hóa mã nguồn giai đoạn 1
-// nnnnn - Bắt đầu tiến trình tối ưu hóa mã nguồn 2
-// nnnnn - Kiểm tra tính liên kết giữa các module
-// nnnnn - Đồng bộ hóa các hàm xử lý bất đồng bộ
-// nnnnn - Quản lý hàng đợi xử lý tác vụ ngầm
-// nnnnn - Tối ưu hóa việc xuất dữ liệu báo cáo
-// nnnnn - Định dạng file xuất ra đạt chuẩn quy định
-// nnnnn - Kiểm tra tính chính xác của số liệu xuất
-// nnnnn - Giảm thời gian chờ xử lý tác vụ nặng
-// nnnnn - Tạo chỉ mục cho các trường dữ liệu hay dùng
-// nnnnn - Khóa dữ liệu tạm thời khi đang cập nhật
-// nnnnn - Tránh xung đột ghi dữ liệu đồng thời
-// nnnnn - Kiểm tra tính nhất quán sau khi commit
-// nnnnn - Tự động phục hồi nếu xảy ra sự cố gãy
-// nnnnn - Cách ly các thành phần có nguy cơ lỗi cao
-// nnnnn - Ghi log chi tiết lỗi hệ thống phát sinh
-// nnnnn - Phân loại mức độ nghiêm trọng của lỗi
-// nnnnn - Thông báo cho quản trị viên qua hệ thống
