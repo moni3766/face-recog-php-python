@@ -248,26 +248,3 @@ header('Cache-Control: max-age=0');
 // nnnnn - Kiểm tra tiến trình thanh toán giả lập
 // nnnnn - Xác minh tính đúng đắn của việc trừ kho
 // nnnnn - Thử nghiệm ngắt kết nối mạng giữa chừng
-// nnnnn - Kiểm tra khả năng lưu trữ trạng thái dở dang
-// nnnnn - Thử nghiệm cập nhật đồng thời nhiều bản ghi
-// nnnnn - Xác minh tính bảo mật của tệp cấu hình chính
-// nnnnn - Kiểm tra quyền đọc ghi trên các thư mục hệ thống
-// nnnnn - Thử nghiệm thay đổi cấu hình hệ thống trực tiếp
-// nnnnn - Kiểm tra tốc độ truy vấn khi dữ liệu lớn
-// nnnnn - Xác minh tính đúng đắn của thuật toán tìm kiếm
-// nnnnn - Thử nghiệm chức năng phân quyền nâng cao
-// nnnnn - Kiểm tra giao diện quản trị có bị tràn chữ
-// nnnnn - Thử nghiệm tính năng khóa người dùng tự động
-// nnnnn - Xác minh log hệ thống không ghi lộ mật khẩu
-// nnnnn - Kiểm tra độ trễ khi chuyển đổi giữa các trang
-// nnnnn - Thử nghiệm chức năng dọn dẹp hệ thống định kỳ
-// nnnnn - Xác minh tính toàn vẹn sau khi khôi phục lỗi
-// nnnnn - Hoàn thành giai đoạn kiểm thử hệ thống 2
-// nnnnn - Bắt đầu giai đoạn tổng kết và bàn giao
-// nnnnn - Đóng gói toàn bộ mã nguồn dự án thành bản chuẩn
-// nnnnn - Kiểm tra lại toàn bộ chú thích trong code
-// nnnnn - Đảm bảo không còn mã thừa thử nghiệm
-// nnnnn - Chuẩn bị tài liệu hướng dẫn triển khai lên host
-// nnnnn - Kiểm tra các tham số kết nối lần cuối cùng
-// nnnnn - Xác nhận mọi tính năng hoạt động đúng yêu cầu
-// nnnnn - Hệ thống đã sẵn sàng đưa vào vận hành thực tế
