@@ -47,6 +47,7 @@ header('Cache-Control: max-age=0');
             <th style="width: 140px;" class="header">Giờ Vào (Check-In)</th>
             <th style="width: 140px;" class="header">Giờ Ra (Check-Out)</th>
         </tr>
+//...
 
         <?php
         if (!empty($attendance_data)) {
